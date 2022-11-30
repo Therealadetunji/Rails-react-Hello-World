@@ -118,16 +118,10 @@ Run
 
 bundle install
 
-
 To get all the gems required for the project
 
-Then, run
-
-
+Then, 
 run npm install
-
-
-
 
 
 ### Usage
@@ -141,10 +135,10 @@ To run the project, execute the following command:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+
 
 > Mention all of the collaborators of this project.
-
+## 👥 Authors <a name="authors"></a>
 👤 **Michael Adeunji**
 
 - GitHub: [@Therealadetunji](https://github.com/therealadetunji)
@@ -152,7 +146,6 @@ To run the project, execute the following command:
 
 
 ## Acknowledgment
-- [Gregoire Vella](https://www.behance.net/gregoirevella) on Behance.
 - Hat tip to anyone whose helped me.
 
 ## 🤝 Contributing
@@ -172,3 +165,4 @@ This project is [MIT](./MIT.md) licensed.
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
