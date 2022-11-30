@@ -1,27 +1,5 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
 
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
@@ -124,26 +102,14 @@ In order to run this project you need:
 - [Node.js](https://nodejs.org/en/)
 - [Yarn](https://yarnpkg.com/)
 - [Rails](https://rubyonrails.org/)
-<!--
-Example command:
 
-```sh
- gem install rails
-```
- -->
 
 ### Setup
 
 Clone this repository to your desired folder by running these commands:
 - $ git clone https://github.com/Therealadetunji/Rails-react-Hello-World.git
-<!--
-Example commands:
 
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
+
 
 ### Install
 
@@ -160,29 +126,16 @@ Then, run
 
 run npm install
 
-Once you have the project correctly set up, run
 
 
-<!--
-Example command:
 
-```sh
-  cd my-project
-  gem install
-```
---->
 
 ### Usage
 
 To run the project, execute the following command:
 - ./bin/dev 
-<!--
-Example command:
 
-```sh
-  rails server
-```
---->
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -198,41 +151,23 @@ Example command:
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/adetunji-michael/)
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## Acknowledgment
+- [Gregoire Vella](https://www.behance.net/gregoirevella) on Behance.
+- Hat tip to anyone whose helped me.
 
-## 🤝 Contributing <a name="contributing"></a>
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/techwolf404/hello_rails_react/issues/).
+Feel free to check the [issues page](https://github.com/Therealadetunji/Budget-App/issues/).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## Show your support
 
-<!-- SUPPORT -->
+Give a ⭐️ if you like this project!
 
-## ⭐️ Show your support <a name="support"></a>
+## :memo: License
 
-> Write a message to encourage readers to support your project
-
-If you like this project give a ⭐️ and follow my profile links so that we can connect
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank Microverse for this opportunity
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
