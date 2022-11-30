@@ -72,3 +72,11 @@ group :test do
   gem 'selenium-webdriver'
   gem 'webdrivers'
 end
+
+gem 'active_serializer', '~> 0.1.1'
+
+gem 'react_on_rails'
+
+gem 'shakapacker'
+
+gem 'foreman'
