@@ -152,25 +152,10 @@ Run
 
 bundle install
 
-
 To get all the gems required for the project
 
-Then, run
-
-
+Then, 
 run npm install
-
-Once you have the project correctly set up, run
-
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
 
 ### Usage
 
@@ -188,10 +173,10 @@ Example command:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+
 
 > Mention all of the collaborators of this project.
-
+## 👥 Authors <a name="authors"></a>
 👤 **Michael Adeunji**
 
 - GitHub: [@Therealadetunji](https://github.com/therealadetunji)
@@ -237,3 +222,21 @@ This project is [MIT](./LICENSE) licensed.
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+=======
+## Acknowledgment
+- Hat tip to anyone whose helped me.
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issue page]
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## :memo: License
+
+This project is [MIT](./MIT.md) licensed.
+
